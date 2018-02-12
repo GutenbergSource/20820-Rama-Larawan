@@ -1,0 +1,88 @@
+<smil
+    xmlns="http://www.w3.org/ns/SMIL"
+    xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+    <body>
+        <seq id="Larawan-s2" epub:textref="Larawan-s2.xhtml" epub:type="bodymatter chapter">
+            <par id="par1">
+                <text src="Larawan-s2.xhtml#p2x1"/>
+                <audio clipBegin="0:00:09.720" clipEnd="0:00:11.489" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par2">
+                <text src="Larawan-s2.xhtml#p2x2"/>
+                <audio clipBegin="0:00:11.489" clipEnd="0:00:13.071" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par3">
+                <text src="Larawan-s2.xhtml#p2x3"/>
+                <audio clipBegin="0:00:13.071" clipEnd="0:00:23.918" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par4">
+                <text src="Larawan-s2.xhtml#p2x4"/>
+                <audio clipBegin="0:00:23.918" clipEnd="0:00:26.906" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par5">
+                <text src="Larawan-s2.xhtml#p2x5"/>
+                <audio clipBegin="0:00:26.906" clipEnd="0:00:30.081" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par6">
+                <text src="Larawan-s2.xhtml#p2x6"/>
+                <audio clipBegin="0:00:30.081" clipEnd="0:00:56.652" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par7">
+                <text src="Larawan-s2.xhtml#p2x7"/>
+                <audio clipBegin="0:00:56.652" clipEnd="0:00:58.705" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par8">
+                <text src="Larawan-s2.xhtml#p2x8"/>
+                <audio clipBegin="0:00:58.705" clipEnd="0:01:02.825" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par9">
+                <text src="Larawan-s2.xhtml#p2x9"/>
+                <audio clipBegin="0:01:02.825" clipEnd="0:01:14.649" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par10">
+                <text src="Larawan-s2.xhtml#p2x10"/>
+                <audio clipBegin="0:01:14.649" clipEnd="0:01:18.066" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par11">
+                <text src="Larawan-s2.xhtml#p2x11"/>
+                <audio clipBegin="0:01:18.066" clipEnd="0:01:22.498" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par12">
+                <text src="Larawan-s2.xhtml#p2x12"/>
+                <audio clipBegin="0:01:22.498" clipEnd="0:01:49.097" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par13">
+                <text src="Larawan-s2.xhtml#p2x13"/>
+                <audio clipBegin="0:01:49.097" clipEnd="0:02:01.107" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par14">
+                <text src="Larawan-s2.xhtml#p2x14"/>
+                <audio clipBegin="0:02:01.107" clipEnd="0:02:06.423" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par15">
+                <text src="Larawan-s2.xhtml#p2x15"/>
+                <audio clipBegin="0:02:06.423" clipEnd="0:02:08.778" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par16">
+                <text src="Larawan-s2.xhtml#p2x16"/>
+                <audio clipBegin="0:02:08.778" clipEnd="0:02:20.761" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par17">
+                <text src="Larawan-s2.xhtml#p2x17"/>
+                <audio clipBegin="0:02:20.761" clipEnd="0:02:34.977" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par18">
+                <text src="Larawan-s2.xhtml#p2x18"/>
+                <audio clipBegin="0:02:34.977" clipEnd="0:02:48.701" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par19">
+                <text src="Larawan-s2.xhtml#p2x19"/>
+                <audio clipBegin="0:02:48.701" clipEnd="0:02:55.869" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+            <par id="par20">
+                <text src="Larawan-s2.xhtml#p2x20"/>
+                <audio clipBegin="0:02:55.869" clipEnd="0:03:07.246" src="audio/msw002_01_mahadlokon_rama_ag.mp3"/>
+            </par>
+        </seq>
+    </body>
+</smil>

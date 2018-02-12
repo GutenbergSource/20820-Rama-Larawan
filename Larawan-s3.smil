@@ -1,0 +1,84 @@
+<smil
+    xmlns="http://www.w3.org/ns/SMIL"
+    version="3.0" xmlns:epub="http://www.idpf.org/2007/ops">
+    <body>
+        <seq id="Larawan-s3" epub:textref="Larawan-s3.xhtml" epub:type="bodymatter chapter">
+            <par id="s3par1">
+                <text src="Larawan-s3.xhtml#s3p1"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:00:09.443" clipEnd="00:00:11.9649887"/>
+            </par>
+            <par id="s3par2">
+                <text src="Larawan-s3.xhtml#s3p2"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:00:11.9649887" clipEnd="00:00:13.7929932"/>
+            </par>
+            <par id="s3par3">
+                <text src="Larawan-s3.xhtml#s3p3"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:00:13.7929932" clipEnd="00:00:28.3749887"/>
+            </par>
+            <par id="s3par4">
+                <text src="Larawan-s3.xhtml#s3p4"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:00:28.3749887" clipEnd="00:00:42.3079819"/>
+            </par>
+            <par id="s3par5">
+                <text src="Larawan-s3.xhtml#s3p5"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:00:42.3079819" clipEnd="00:00:45.2019728"/>
+            </par>
+            <par id="s3par6">
+                <text src="Larawan-s3.xhtml#s3p6"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:00:45.2019728" clipEnd="00:00:47.7959637"/>
+            </par>
+            <par id="s3par7">
+                <text src="Larawan-s3.xhtml#s3p7"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:00:47.7959637" clipEnd="00:00:49.9619501"/>
+            </par>
+            <par id="s3par8">
+                <text src="Larawan-s3.xhtml#s3p8"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:00:49.9619501" clipEnd="00:01:14.0549433"/>
+            </par>
+            <par id="s3par9">
+                <text src="Larawan-s3.xhtml#s3p9"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:01:14.0549433" clipEnd="00:01:16.1899320"/>
+            </par>
+            <par id="s3par10">
+                <text src="Larawan-s3.xhtml#s3p10"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:01:16.1899320" clipEnd="00:01:32.9749207"/>
+            </par>
+            <par id="s3par11">
+                <text src="Larawan-s3.xhtml#s3p11"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:01:32.9749207" clipEnd="00:01:41.6699094"/>
+            </par>
+            <par id="s3par12">
+                <text src="Larawan-s3.xhtml#s3p12"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:01:41.6699094" clipEnd="00:01:45.4319049"/>
+            </par>
+            <par id="s3par13">
+                <text src="Larawan-s3.xhtml#s3p13"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:01:45.4319049" clipEnd="00:02:17.6399094"/>
+            </par>
+            <par id="s3par14">
+                <text src="Larawan-s3.xhtml#s3p14"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:02:17.6399094" clipEnd="00:02:20.2799094"/>
+            </par>
+            <par id="s3par15">
+                <text src="Larawan-s3.xhtml#s3p15"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:02:20.2799094" clipEnd="00:02:23.8489117"/>
+            </par>
+            <par id="s3par16">
+                <text src="Larawan-s3.xhtml#s3p16"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:02:23.8489117" clipEnd="00:02:30.4529026"/>
+            </par>
+            <par id="s3par17">
+                <text src="Larawan-s3.xhtml#s3p17"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:02:30.4529026" clipEnd="00:02:57.5219049"/>
+            </par>
+            <par id="s3par18">
+                <text src="Larawan-s3.xhtml#s3p18"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:02:57.5219049" clipEnd="00:03:03.3119049"/>
+            </par>
+            <par id="s3par19">
+                <text src="Larawan-s3.xhtml#s3p19"/>
+                <audio src="audio/msw003_12_indaylidersapiniliay_rama_ag.mp3" clipBegin="00:03:03.3119049" clipEnd="00:03:15.597"/>
+            </par>
+        </seq>
+    </body>
+</smil>
